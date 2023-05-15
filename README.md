@@ -25,3 +25,5 @@ El Modelo se encarga de manejar la lógica de negocio y los datos, incluyendo la
 La Vista se encarga de mostrar los libros en la interfaz de usuario y recibir las interacciones del usuario.
 El Controlador se encarga de recibir las acciones del usuario desde la Vista, realizar las operaciones correspondientes en el Modelo y actualizar la Vista con los resultados obtenidos.
 Esta división de responsabilidades permite una mayor modularidad y separación de preocupaciones en el sistema. Cada componente tiene su propia responsabilidad y se comunica con los demás componentes de acuerdo con las reglas del patrón MVC. Esto facilita el mantenimiento, la extensibilidad y la reutilización del código, ya que los cambios en un componente no afectarán directamente a los demás.
+
+![DIAGRAMA PARCIAL drawio](https://github.com/reynicolasss/Parcial2/assets/133656905/9f7da060-49e0-4be2-b0d7-ded4e254340c)
